@@ -14,6 +14,7 @@ function App() {
     <div className='App'>
       <p>Welcome</p>
       <ButtonIndex />
+      <ButtonIndex />
 
       <About />
       <Products />
